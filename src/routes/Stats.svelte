@@ -37,9 +37,6 @@
               <p class="text-gray-500 mb-12">
                 If you're ready to take your wealth creation to the next level, this eBook is for you. Order now and discover the power of ChatGPT!
               </p>
-           
-
-
 
               <div class="grid lg:gap-x-12 md:grid-cols-3">
                 <div class="mb-12 md:mb-0">
