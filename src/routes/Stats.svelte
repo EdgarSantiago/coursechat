@@ -9,7 +9,7 @@
       <div class="block rounded-lg shadow-lg bg-white">
         <div class="flex flex-wrap items-center">
           <div class="block w-full lg:flex grow-0 shrink-0 basis-auto lg:w-6/12 xl:w-4/12">
-            <a href="/">
+            <a href="https://pay.hotmart.com/J82525179Y">
             <img
               src="/banner.png"
               alt="Trendy Pants and Shoes"
