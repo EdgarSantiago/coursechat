@@ -11,8 +11,8 @@
 </script>
 
 <svelte:head>
-	<title>Início</title>
-	<meta name="description" content="Wealth money" />
+	<title>The Future of Wealth: How to make money with ChatGPT</title>
+<meta name="description" content="Discover the secrets to making money with ChatGPT! Our eBook, The Future of Wealth, reveals everything you need to know about this cutting-edge technology." />
 </svelte:head>
 
 <section>
